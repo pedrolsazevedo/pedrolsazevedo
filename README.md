@@ -17,11 +17,11 @@ My name is Pedro Luis Silva Azevedo. I work as a Analyst at Metro de Sao Paulo.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psilvaazevedo&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolsazevedo&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=psilvaazevedo&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=pedrolsazevedo&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=psilvaazevedo&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pedrolsazevedo&hide_border=true)
 
 ### Let's connect? 🤝
 
